@@ -48,7 +48,10 @@ These components work together to create a functional and customizable gaming de
 - A computer with Arduino IDE (or similar) installed for programming.  
 
 ---
-
+##PCB
+- The PCB board is available in Frizing format. Please download it if necessary.
+![PCB Top](beta_JoyPad_プリント基板2.png)![PCB Silkprint](beta_JoyPad_プリント基板.png)
+---
 ## Assembly Instructions  
 1. **Prepare the components:** Unpack the kit and organize the parts.  
 2. **Solder the components:** Follow the step-by-step guide provided in the documentation.  
