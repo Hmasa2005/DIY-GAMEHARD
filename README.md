@@ -50,7 +50,10 @@ These components work together to create a functional and customizable gaming de
 ---
 ## PCB Data  
 - The PCB board is available in Frizing format. Please download it if necessary.
-![PCB Top](beta_JoyPad_プリント基板2.png)![PCB Silkprint](beta_JoyPad_プリント基板.png)
+<p align="center">
+  <img src="beta_JoyPad_プリント基板2.png" alt="PCB Top" width="45%" />
+  <img src="beta_JoyPad_プリント基板.png" alt="PCB Silkprint" width="45%" />
+</p>
 ---
 ## Assembly Instructions  
 1. **Prepare the components:** Unpack the kit and organize the parts.  
