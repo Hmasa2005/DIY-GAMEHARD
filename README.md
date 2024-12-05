@@ -1,4 +1,5 @@
 # DIY-GAMEHARD
+![Game Console Image](IMG_8037.jpg)
 
 ## Overview  
 **DIY-GAMEHARD** is a project where you can build your own gaming console through hands-on electronic crafting. This project is ideal for beginners and experienced makers who are interested in combining hardware soldering and software programming. By the end of the project, participants will have a fully functional game console that can be further customized.
