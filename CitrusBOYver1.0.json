@@ -1,0 +1,27 @@
+{
+    "packages": [
+      {
+        "name": "CITRUSBOY",
+        "maintainer": "Masahiro Higuchi",
+        "websiteURL": "https://github.com/Hmasa2005/DIY-GAMEHARD",
+        "email": "a601023361@st.tachibana-u.ac.jp",
+        "platforms": [
+          {
+            "name": "CITRUSBOY-ATmega32U4 ",
+            "architecture": "avr",
+            "version": "1.0.0",
+            "category": "Contributed",
+            "url": "https://github.com/Hmasa2005/DIY-GAMEHARD/blob/main/CITRUSBOY-Ver1.0.0.zip",
+            "archiveFileName": "CITRUSBOY-Ver1.0.0.zip",
+            "checksum": "c7396a5dd63fbe022a76f8a1fd7a9ca33ce33b4457aca507f6877f1da4b0fe99",
+            "size": "12345",
+            "boards": [
+              { "name": "CITRUSBOY-ATmega32U4" }
+            ],
+            "toolsDependencies": []
+          }
+        ]
+      }
+    ]
+  }
+  
