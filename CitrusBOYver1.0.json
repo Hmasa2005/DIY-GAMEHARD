@@ -13,8 +13,8 @@
             "category": "Contributed",
             "url": "https://raw.githubusercontent.com/Hmasa2005/DIY-GAMEHARD/main/CITRUSBOY-Ver1.0.0.zip",
             "archiveFileName": "CITRUSBOY-Ver1.0.0.zip",
-            "checksum": "SHA-256:c8f870e3e65645a3f58d6f84edcf73bba64711d9b52bbc6f0f57c66f01026c5a",
-            "size": "1447713",
+            "checksum": "SHA-256:f43fcea139d4e9028b903a46cdc7fc39b35e0ca63c1c1237bbc1e5cca5376db3",
+            "size": "1447688",
             "boards": [
               { "name": "CITRUSBOY-ATmega32U4" }
             ],
